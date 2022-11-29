@@ -1,4 +1,4 @@
-package BancoJava.ContaBancaria.ContaBancaria;
+package BancoJava.ContaBancaria;
 
 public class ContaBancaria {
     private int numero;
